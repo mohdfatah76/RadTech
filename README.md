@@ -1,2 +1,2 @@
-# Radiographic-Technique-
+Radiographic Technique
 Radiographic Technique Image Evaluation 
